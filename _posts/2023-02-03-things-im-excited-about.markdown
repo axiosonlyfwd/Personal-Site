@@ -2,6 +2,7 @@
 layout: post
 title:  "Things I'm Excited and Optimistic About"
 short-title: Optimism
+permalink: /future-optimism/
 date:   2023-02-02 17:13:10 -0500
 original: 2023-02-02 17:13:10 -0500
 categories: jekyll update

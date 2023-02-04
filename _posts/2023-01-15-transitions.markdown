@@ -2,6 +2,7 @@
 layout: post
 title:  "Transitions, Laying Fallow, and Discovering What’s Next"
 short-title: Transitions
+permalink: /transitions/
 date:   2023-01-15 17:13:10 -0500
 original: 2023-01-15 17:13:10 -0500
 categories: jekyll update
