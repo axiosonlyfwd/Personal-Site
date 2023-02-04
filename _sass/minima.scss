@@ -30,10 +30,10 @@ body {
 
 .post-title {
     font-size: 28px;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 750px) {
     #menu {
         width: 125px;
         margin-left: 15px;
@@ -61,8 +61,6 @@ body {
     margin: 0;
     padding: 0;
 }
-
-#menu li {}
 
 #menu li a {
     display: inline-block;
@@ -101,6 +99,7 @@ body {
 }
 
 .dt-published {
+    margin-top: 0px;
     font-style: italic;
     color: rgb(110, 110, 110);
 }
