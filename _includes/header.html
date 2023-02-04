@@ -12,22 +12,25 @@
             {%- assign page_paths = site.header_pages | default: default_paths -%}
             {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
             <a href="{{ "/" | relative_url }}">
-                <img src="https://pixels-commissions.s3.eu-west-1.amazonaws.com/%2310%20franklee%202.png" height="100" width="100"
+                <img src="https://pixels-commissions.s3.eu-west-1.amazonaws.com/%2310%20franklee%202.png"
                     class="avatar">
             </a>
             <b><a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></b>
+            <a class="site-sub-title" rel="author" href="{{ "/" | relative_url }}">@knarfeel</a>
             <ul>
                 <br>
                 <b>Personal</b>
                     <li><a class="page-link" href="{{ "./about" | relative_url }}">About</a></li>
-                    <li><a class="page-link" href="{{ "./userguide" | relative_url }}">Userguide</a></li>
+                    <li><a class="page-link" href="{{ "./userguide" | relative_url }}">User Guide</a></li>
                     <li><a class="page-link" href="{{ "./goals" | relative_url }}">Goals</a></li>
+                    <li><a class="page-link" href="{{ "./bucketlist" | relative_url }}">Bucketlist</a></li>
                 <br>
                 <b>Contact</b>
                     <li><a href="https://twitter.com/knarfeel_" target="_blank">Twitter</a></li>
                     <li><a href="https://github.com/axiosonlyfwd/" target="_blank">Github</a></li>
                     <li><a href="https://www.linkedin.com/in/bizfranklee/" target="_blank">Linkedin</a></li>
                     <li><a href="mailto:biz.franklee@gmail.com" target="_blank">Email</a></li>
+                    <li><a href="https://rainbow.me/franklee.eth" target="_blank">franklee.eth</a></li>
             </ul>
             
             {% if site.paginate %}
