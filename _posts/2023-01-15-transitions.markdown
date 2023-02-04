@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Transitions, Laying Fallow, and Discovering What’s Next"
+short-title: Transitions
 date:   2023-01-15 17:13:10 -0500
 categories: jekyll update
 description: Quick note to myself + friends while taking a break.
