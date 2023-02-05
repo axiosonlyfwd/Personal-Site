@@ -62,11 +62,9 @@ Suddenly something that seemed scary before is now decomposed into a more approa
 
 For most things, there isn’t much downside risk to trying something new aside from fear of failure or perceived negative social perceptions. I’ve usually overcome that the same way I overcame being fearful about going to school dances in middle school which was realizing:
 
-Nobody really cares because they’re mostly thinking and worried about themselves.
-
-People don’t actually have their shit together when they get started and that’s ok.
-
-Most people don’t actually have their shit together even when they’re successful and that’s ok as well!
+- Nobody really cares because they’re mostly thinking and worried about themselves.
+- People don’t actually have their shit together when they get started and that’s ok.
+- Most people don’t actually have their shit together even when they’re successful and that’s ok as well!
 
 All of us are still figuring things out. Just do it. Like Nike. But just start with smallest thing in the beginning so you can build familiarity and comfort then do it continuously.
 
@@ -86,15 +84,15 @@ My takeaway was to try and build consistency in some practice. It’ll lead you 
 
 I’ve had an uncomfortable but also useful fallow period to reflect a bit. I’m still not sure what the right next path is but I have started establishing some principles and experiments to chew on:
 
-Build friendships with friendly peers: the best thing I got from Amazon, Opendoor, and Dapper were peers that became meaningful friendships. Being able to connect authentically on shared values and interests was crucial for leaving a happy impression on me. Whenever I had to deal with internal politics instead of shipping product? Not as exciting.
+- Build friendships with friendly peers: the best thing I got from Amazon, Opendoor, and Dapper were peers that became meaningful friendships. Being able to connect authentically on shared values and interests was crucial for leaving a happy impression on me. Whenever I had to deal with internal politics instead of shipping product? Not as exciting.
 
-Excellence and ambition are contagious: having peers with high-talent bars around you improves your quality standard and motivates you to do your best work. The teams where I was challenged least led to lower motivation levels and quality of experience. I never minded long hours as long as I felt like I was being challenged in the right way.
+- Excellence and ambition are contagious: having peers with high-talent bars around you improves your quality standard and motivates you to do your best work. The teams where I was challenged least led to lower motivation levels and quality of experience. I never minded long hours as long as I felt like I was being challenged in the right way.
 
-Beneficial for the world: I tend to overthink and worry about which industry or sector to work on but I’ve ultimately been most happy when I know what I’m grinding on is beneficial for the world. Helping entrepreneurs start in-person or online businesses to chase their dreams? Felt great. Empowering people to move easily using data/ML/ops? Also great. Building speculative lottery products but in a fun consumer space? Not sure at times.
+- Beneficial for the world: I tend to overthink and worry about which industry or sector to work on but I’ve ultimately been most happy when I know what I’m grinding on is beneficial for the world. Helping entrepreneurs start in-person or online businesses to chase their dreams? Felt great. Empowering people to move easily using data/ML/ops? Also great. Building speculative lottery products but in a fun consumer space? Not sure at times.
 
-Mix of Making vs Managing: Having a calendar over-indexed only on IC or manager work was tough. I loved sitting down for hours jamming on SQL and building analytical frameworks but hated not “playing ball” and directly executing after discovering insights. I loved dreaming up and executing product ideas and strategies but hated sitting in 6 hours of meetings straight daily. I think I want a healthy mix between strategy and technical work in what’s next.
+- Mix of Making vs Managing: Having a calendar over-indexed only on IC or manager work was tough. I loved sitting down for hours jamming on SQL and building analytical frameworks but hated not “playing ball” and directly executing after discovering insights. I loved dreaming up and executing product ideas and strategies but hated sitting in 6 hours of meetings straight daily. I think I want a healthy mix between strategy and technical work in what’s next.
 
-1→N versus 0→1: I’ve been lucky to try out many company stages but do think I favor early stage more. It feels great to run through a full problem identification → launch → learning loop and this happens much more frequently with a smaller team. I’ve never properly done the 0→1 so that’s a frontier I’m most curious about.
+- 1→N versus 0→1: I’ve been lucky to try out many company stages but do think I favor early stage more. It feels great to run through a full problem identification → launch → learning loop and this happens much more frequently with a smaller team. I’ve never properly done the 0→1 so that’s a frontier I’m most curious about.
 
 I’m getting close to fully recharged and ready to jump into what’s next soon. In the meantime, I’m mostly focused on improving my habits and starting off with a few simple input actions per day: shipping at least 1 Github commit (however trivial!) while learning, exercising everyday, doing some research or interviews in spaces that I’m curious about, and hopefully writing a bit more to structure my thoughts better (however bad the notes are!):
 

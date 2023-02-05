@@ -3,7 +3,7 @@ layout: page
 title:  "Bucketlist"
 permalink: /bucketlist/
 short-title: Bucketlist
-date:   2023-02-03 17:13:10 -0500
+date:   2022-12-29 17:13:10 -0500
 categories: jekyll update
 description: My long-term bucketlist items.
 ---

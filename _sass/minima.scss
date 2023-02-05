@@ -6,6 +6,8 @@ body {
     height: 100%;
     margin-left: 175px;
     margin-right: 600px;
+    margin-top: -5px;
+    margin-bottom: 50px;
 }
 
 #menu {
@@ -108,20 +110,35 @@ body {
 p {
     margin-block-start: 1em;
     margin-block-end: 1em;
-    line-height: 1.4em;
+    line-height: 1.3em;
+}
+
+ul {
+    line-height: 1.3em;
+    margin-left: -20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: -10px;
+    margin-top: 25px;
 }
 
 blockquote {
     font-style: italic;
+    color: rgb(60, 60, 60);
     margin-left: 7px;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 1em;
     margin-inline-end: 1em;
+    border-left: 4px solid #E8B500;
+    padding-left: 15px;
+    height: auto;
 }
 
+
 #content {
-    margin-top: 15px;
+    margin-top: 0px;
     float: left;
     width: 500px;
 }
@@ -134,7 +151,7 @@ blockquote {
 }
 
 #content h2 {
-    margin-top: 2em;
+    margin-top: 0em;
 }
 
 #content .byline,
@@ -147,7 +164,6 @@ blockquote {
 #content p,
 #content ul {
     color: #333;
-    line-height: 18px;
 }
 
 #content sup.note {
@@ -159,8 +175,8 @@ blockquote {
 }
 
 #content .thanks {
-    margin-top: 2em;
-    padding-top: 1em;
+    margin-top: 0em;
+    padding-top: 0em;
     border-top: 1px solid #eee;
     font-size: smaller;
     color: #777;
@@ -170,11 +186,8 @@ blockquote {
     color: #777;
 }
 
-#content li {
-}
-
 .post+.post {
-    margin-top: 50px;
+    margin-top: 0px;
 }
 
 sup,
@@ -182,8 +195,4 @@ sub {
     vertical-align: baseline;
     position: relative;
     top: -0.4em;
-}
-
-sub {
-    top: 0.4em;
 }
