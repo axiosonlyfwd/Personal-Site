@@ -3,39 +3,40 @@ layout: page
 title:  "Current Goals"
 permalink: /goals/
 short-title: Goals
-date:   2022-12-29 17:13:10 -0500
-categories: jekyll update
-description: My current goals aka personal OKRs.
+date:   2022-12-31 17:13:10 -0500
+categories: personal
+description: My current goals in 2023.
 ---
 
-### **HEALTH**
+Unironically, my favorite thing I learned + worked on while at Amazon was their annual planning process so I started doing it for myself at the end of each year. Here's the current list for 2023 for external accountability:
+
+### **Health**
 - **Improve Attention**: Go for walks, workouts, or writes whenever I catch myself doomscrolling. Use SelfControl app and just remove Youtube, Netflix, and games. Maybe get a [Light Phone](https://www.thelightphone.com/) for the work week.
 - **Improve Mental Health**: Be softer on myself mentally when I’m unproductive or my mood is in the gutter. Have less imposter syndrome. Try to understand what I’m nervous about and avoiding when I procrastinate.
 - **Running**: Rediscover the fun and gratifying feeling of progress here; try and stay at 40/mi week at ~7 min/mile pace. Maybe stop listening to podcasts on runs and just focus on pace.
 - **Lifting**: Try and do this 2x weekly to not get too small; take more protein.
 
-### **PERSONAL PROJECTS**
+### **Projects**
 - **Programming**: Finish the full-stack CodeAcademy class by end of January. Make a git commit daily for the rest of the year. Work on a few fun projects:
     - Build a personal website from scratch in HTML/CSS.
     - Create a LLM workflow app for myself + friends in Javascript/Python.
     - Build a live-near-friends or personal health dashboard mobile app in Swift.
     - Build a web3 tumblr clone for fun.
-- **Finding My Voice**: Settle my love-hate relationship with social media. Less browsing or lurking. Set a dedicated hour in the night to write and respond in earnest. Figure out the basics and start the habit on building an audience.
+- **Finding My Voice**: Settle my love-hate relationship with social media. Less browsing or lurking. Set dedicated time in the night to write and respond in earnest. Figure out the basics and start the habit on building an audience.
     - Instead of surface-level browsing, do deep-dives into topics I’m curious about and write it up.
     - Openly write about observations in new spaces and whether there’s interesting things to build.
 - **Explore**: Just hack on things personally fun to get better at programming and sharing and have zero pressure to start something official. I need to get better with my unstructured time.
     - Figure out how to make the stakes feel close to zero and frictionless to get started on stuff.
     - Pick back up on the cocktail/mocktail mixing.
 
-### **LIFE + RELATIONSHIP**
+### **Life and Relationships**
 - **Get Engaged**: Make it meaningful for Lisa and myself! Probably get paper married and map out our life plan (where to move to, wedding planning, kid planning, saving for a house, etc.) by our next lease end.
 - **Dates**: A date a week in our last year in NYC. I actually really like the intention of curating 50 great 1st date activities in NYC, asking personal questions, and creating a shareable list.
 - **Respond**: If I see a text, just respond immediately. Same with emails that require my attention. Unsubscribe from stuff that does not bring me value or joy.
 - **Finances**: Be smarter about foundational expenses like rent, discretionary spend, and no aping into ponzi assets this year to save.
 
-### **WORK**
-- I think I just want to find a job that is worth it from an income per hour worked perspective, I can be mentally happy with, learning a lot about a new space, and has enough space that I can tinker on other things outside of work.
+### **Work**
+- I think I just want to find a job that is worth it from an income per hour worked perspective, I can be mentally happy with, learn a ton from in a new space, and leaves enough breathing room that I can tinker on other things outside of work.
 - Secondarily, in a growing foundational industry worth staying in long-term
     - Are there things that I think should exist long-term that are good for the world?
-    - Internet/SaaS, non-speculative web3, AI, socioeconomic mobility, space + manufacturing
-- Take the cash and not the equity this time.
+    - Internet/SaaS, less-speculative crypto, AI, socioeconomic mobility, learn more about space.
