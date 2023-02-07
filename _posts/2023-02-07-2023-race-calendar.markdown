@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "NYC Run Calendar for 2023"
+short-title: Races
+permalink: /2023-races/
+date:   2023-02-07 16:20:10 -0500
+original: 2023-02-07 16:20:10 -0500
+categories: marathon
+description: My NYC race dates to qualify for 9+1 program.
+---
+
+Since this is probably my last year in NYC, I decided to try and do the [NYC Marathon 9+1 Program](https://www.nyrr.org/run/guaranteed-entry/tcs-new-york-city-marathon-9plus1-program) this year so I can definitely run the marathon in 2024 (apparently the raffle odds ranged between [2.4%](https://help.nyrr.org/s/article/what-are-the-odds-of-getting-selected-how-are-runners-selected) to [18%](https://runningbrina.com/nyc-marathon-lottery/#:~:text=The%20NYC%20Marathon%20lottery%20odds,to%20get%20into%20the%20race.) which seems low). 
+
+If anyone wants to join me on any of the races or volunteering for 2023, here's the list:
+1. Sunday, 5/7/23 - [NYRR Newport 5K](https://www.nyrr.org/races/nyrrnewport5k)  in Jersey City
+2. Saturday, 5/20/23 - [RBC Brooklyn Half](https://www.nyrr.org/races/rbcbrooklynhalf) in Prospect Park (volunteering for the +1)
+3. Saturday, 6/17/23 - [NYRR Queens 10K](https://www.nyrr.org/races/nyrrqueens10k) in Flushing Meadows Corona Park
+4. Sunday, 6/25/23 - [Achilles Hope & Possibility 4 Miler](https://www.nyrr.org/races/achilleshopepossibility4mpresentedbytdbank) in Central Park
+5. Saturday, 7/15/23 - [NYRR Retro 4-Miler](https://www.nyrr.org/races/nyrrretro4miler) in Central Park
+6. Sunday, 7/30/23 - [NYRR Team Championships 5 Miler](https://www.nyrr.org/races/nyrrteamchampionships5m) in Central Park
+7. Saturday, 8/19/23 - [TCS New York City Marathon Training Series 12 Miler](https://www.nyrr.org/races/tcsnewyorkcitymarathontrainingseries12m) in Central Park
+8. Saturday, 8/26/23 - [NYRR Grete's Great Gallop 10K](https://www.nyrr.org/races/nyrrgretesgreatgallop10k) in Central Park
+9. Sunday, 9/17/23 - [New Balance Bronx 10 Miler](https://www.nyrr.org/races/newbalancebronx10mile) in the Bronx
+10. Saturday, 9/30/23 - [TCS New York City Marathon Training Series 18 Miler](https://www.nyrr.org/races/tcsnewyorkcitymarathontrainingseries18m) in Central Park
+
+The whole thing ended up costing $305 after signing up for the NYRR annual membership plan and race fees which was lower than expected. Putting this out for public accountability and trying to manifest it: aiming for a ~3 to 3:10 marathon this year. If you're similar or better than me pace-wise, tet me know if you ever want a training partner!
