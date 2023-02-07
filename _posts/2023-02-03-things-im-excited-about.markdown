@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Things I'm Optimistic About in the Future"
-short-title: Future Optimism
+short-title: Optimism
 permalink: /future-optimism/
 date:   2023-02-06 17:13:10 -0500
 original: 2023-02-02 17:13:10 -0500

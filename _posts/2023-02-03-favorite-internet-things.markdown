@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Favorite Internet Things"
-short-title: Internet Favorites
+short-title: Favorites
 permalink: /favorites/
 date:   2023-02-06 15:13:10 -0500
 original: 2023-02-02 17:13:10 -0500
