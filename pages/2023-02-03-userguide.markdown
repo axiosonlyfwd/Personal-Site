@@ -21,7 +21,7 @@ I think personality tests are more reflective of how someone wants to be perceiv
 
 
 ### **Values**
-- **Open Mindedness**: I make decisions with conviction but I'm always open minded to data that suggests a better way. If I receive solid reasoning or data, I'll change course quickly.
+- **Open Mindedness**: I make decisions with conviction but I'm always open minded to new ideas or data that suggests a better way. If I receive solid reasoning or data, I'll change course quickly.
 - **["Yes, and..."](https://medium.com/improv4/saying-yes-and-a-principle-for-improv-business-life-fd050bccf7e3)**: I love this improv principle for pushing me to keep an open ear to ideas from other, assuming the best intent, and trying to constructively build on top.
 - **Curiosity and Growth Mindset:** I enjoy learning, being exposed to a wide spectrum of disciplines, and I'm in the process of figuring out where I want to get extremely deep in.
 - **Action and Resourcefulness**: I want to learn most from experimenting proactively instead of debating concepts into oblivion. If it doesn't work, be resourceful and figure out how to improve.

@@ -3,7 +3,7 @@ layout: page
 title:  "Bucketlist"
 permalink: /bucketlist/
 short-title: Bucketlist
-date:   2023-02-04 17:13:10 -0500
+date:   2023-02-05 17:13:10 -0500
 categories: personal
 description: My long-term bucketlist items.
 ---
@@ -20,6 +20,7 @@ On my plane ride from studying abroad in Shanghai back to UCLA for graduation, I
 - Buy my parents a house
 - Perform in Saturday Night Live
 - Open a cocktail bar or host a well-known cocktail series
+- Own a knitted cap Cryptopunk
 - **~~Skydive (Summer’13)~~**
 - **~~Run a marathon (June 13, 2015+)~~**
 - **~~Complete an olympic triathlon (September 25, 2017+)~~**

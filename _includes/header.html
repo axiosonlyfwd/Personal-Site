@@ -26,18 +26,12 @@
                     <li><a class="page-link" href="{{ "./bucketlist" | relative_url }}">Bucketlist</a></li>
                 <br>
                 <b>Contact</b>
+                    <li><a href="mailto:biz.franklee@gmail.com" target="_blank">Email</a></li>
+                    <li><a href="https://www.linkedin.com/in/bizfranklee/" target="_blank">Linkedin</a></li>
                     <li><a href="https://twitter.com/knarfeel_" target="_blank">Twitter</a></li>
                     <li><a href="https://github.com/axiosonlyfwd/" target="_blank">Github</a></li>
-                    <li><a href="https://www.linkedin.com/in/bizfranklee/" target="_blank">Linkedin</a></li>
-                    <li><a href="mailto:biz.franklee@gmail.com" target="_blank">Email</a></li>
+                    <li><a href="https://www.instagram.com/knarfeel_/" target="_blank">Instagram</a></li>
                     <li><a href="https://rainbow.me/franklee.eth" target="_blank">Ethereum</a></li>
-                <br>
-                <b>Work</b>
-                    <li><a class="page-link" href="{{ "./dapper" | relative_url }}">Dapper Labs</a></li>
-                    <li><a class="page-link" href="{{ "./hoist" | relative_url }}">Hoist</a></li>
-                    <li><a class="page-link" href="{{ "./opendoor" | relative_url }}">Opendoor</a></li>
-                    <li><a class="page-link" href="{{ "./amazon" | relative_url }}">Amazon</a></li>
-                    <li><a class="page-link" href="https://grailznft.xyz/" target="_blank">Grailz</a></li>
             </ul>
             
             {% if site.paginate %}
@@ -47,7 +41,7 @@
             {% endif %}
             
             <br>
-            <b>Posts</b>
+            <b>Library</b>
             {%- if posts.size > 0 -%}
             {%- if page.list_title -%}
             <h2 class="post-list-heading">{{ page.list_title }}</h2>
@@ -59,6 +53,7 @@
                     <a href="{{ post.url | relative_url }}">{{ post.short-title | escape }}</a>
                 </li>
                 {%- endfor -%}
+                <li><a class="page-link" href="https://grailznft.xyz/" target="_blank">Grailz</a></li>
             </ul>
             
             {% if site.paginate %}
