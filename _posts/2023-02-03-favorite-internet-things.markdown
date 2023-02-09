@@ -19,6 +19,7 @@ Starting a list on random things I liked and want to collect on the internet.
 - [Kendrick Lamar - Alright](https://www.youtube.com/watch?v=Z-48u_uWMHY)
 - [Tyler the Creator - EARFQUAKE](https://www.youtube.com/watch?v=HmAsUQEFYGI)
 - [DOM KENNEDY - DESIGNER SHIT](https://www.youtube.com/watch?v=89u_GEsFcpM)
+- [LiSa - Gurenge FIRST TAKE](https://youtu.be/MpYy6wwqxoo?t=56)
 
 ### **Streetwear + Sneakers**
 - [How NikeTalk Changed the Sneaker Game](https://www.complex.com/sneakers/2014/02/how-niketalk-changed-the-sneaker-game)
