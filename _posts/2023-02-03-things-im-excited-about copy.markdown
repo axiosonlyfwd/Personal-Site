@@ -38,6 +38,7 @@ My first gig out of college was at Amazon working on analytics and I'm not sure 
 - [Algorithms to Live By: 37% Rule for the Optimal Stopping Problem](https://steemit.com/algorithmstoliveby/@capatazche/algorithms-to-live-by-2-optimal-stopping-how-long-to-look-for-and-when-to-stop-to-find-the-best-the-37-rule)
 - [Facebook CICERO learns Diplomacy](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
 - [Sam Altman's Manifest Destiny](https://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny)
+- [81 year old tries a self-driving car for the first time](https://twitter.com/lizadixon/status/1631794793255714816?s=20)
 
 ### **Crypto**
 Basically all of my time growing up was spent on internet forums like Niketalk, Superfuture, and Hypebeast reading about streetwear and sneakers, playing video games like DotA (Allstars*), managing fantasy basketball and football teams, or just shitposting on Tumblr. Speculation aside, crypto reminds me of my childhood on the internet. Collecting is fun. Open, transparent, and permissionless applications and data are good for the world. 
