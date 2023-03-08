@@ -52,6 +52,8 @@ Basically all of my time growing up was spent on internet forums like Niketalk, 
 - [Hal Finney on crypto trading cards in 1993](https://i.redd.it/wno6z13zxgfa1.jpg)
 - [Balajis on decentralized task creation](https://thenetworkstate.com/decentralized-task-creation)
 - [FWB: Social Club Runs on Crypto Tokens and Vibes](https://www.nytimes.com/2022/03/02/technology/friends-with-benefits-crypto-dao.html)
+- [Paul Krugman gets blocked on Venmo](https://twitter.com/NeerajKA/status/1633485879250497538?s=20)
+- 
 
 ### **Health, Fitness, Longevity**
 Pushing the limits of the human body and living longer is good for the world. Eliud Kipchoge and Lebron James are major inspirations.
